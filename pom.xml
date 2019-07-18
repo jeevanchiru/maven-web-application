@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-52-66-245-54.ap-south-1.compute.amazonaws.com:8081/repository/jeevanhost-release/</url>
+	      <url>http://ec2-13-234-19-247.ap-south-1.compute.amazonaws.com:8081/repository/myrelease/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-52-66-245-54.ap-south-1.compute.amazonaws.com:8081/repository/jeevan-snapshot//</url>
+	      <url>http://ec2-13-234-19-247.ap-south-1.compute.amazonaws.com:8081/repository/mysnapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
